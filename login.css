@@ -1,0 +1,23 @@
+.login-title {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #1e90ff;
+}
+
+.stTextInput > div > input {
+    border: 2px solid #1e90ff;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.stButton > button {
+    background-color: #1e90ff;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+}
